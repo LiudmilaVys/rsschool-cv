@@ -1,5 +1,6 @@
 # Liudmila Vysotskaya
 ### Software Engineer
+![My photo must be here](me.jpg)
 
 ***
 
